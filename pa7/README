@@ -1,0 +1,24 @@
+README for PA7
+
+Yiqi Li, March 2023
+==========================================
+
+Main file:
+Makefile, Dictionary.cpp, Dictionary.h, Order.cpp, README 
+Test file: 
+DictionaryTest.cpp
+==========================================
+For this assignment, I create the Dictionary ADT by using binary search trees.The key as being some kind of identifying information, such as an account number, and the value as being data associated with that account.
+
+==========================================
+
+USAGE:
+1) Run "make", to get the executuable "Dictionary"
+2) Run "./Dictionary <input file> <output file>"
+
+==========================================
+
+REFERENCES: 
+*DictionaryClient.cpp file from the example in cse101.
+*Dictionary.h file from the example in cse101.
+*FileIO.cpp from the example in cse101.

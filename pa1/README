@@ -1,0 +1,28 @@
+README for PA1
+
+Yiqi Li, January 2023
+==========================================
+
+Main file:
+Makefile, Lex.c, List.c, List.h README 
+Test file: 
+ListTest.c
+
+==========================================
+
+For this assignment, I build the integer List ADT in C and Use this list ADT
+to sort the line and output it to the file. This adt is created by many function.
+
+==========================================
+
+USAGE:
+1) Run "make", to get the executuable "Lex"
+3) Run "./Lex <input file> <output file>"
+
+
+==========================================
+
+REFERENCES: 
+*Makefile from the example in cse101.
+*Queue.c file from the example in cse101.
+*FileIO.c from the example in cse101.
